@@ -74,3 +74,7 @@ int main()
     int ans = NumOfIsland(grid);
     cout<<ans;
 }
+
+// Complexity Analysis
+// Space Complexity -> O(N^2)+O(N^2)
+// Time Complexity -> O(N^2) + O(N^2) ~ O(N^2)
