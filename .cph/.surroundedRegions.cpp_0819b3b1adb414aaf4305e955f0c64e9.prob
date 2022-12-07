@@ -1,1 +1,0 @@
-{"name":"Local: surroundedRegions","url":"c:\\code\\Graphs Algo\\Graphs\\surroundedRegions.cpp","tests":[{"id":1670347137916,"input":"5 4\nX X X X\nX O X X\nX O O X\nX O X X\nX X O O","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\code\\Graphs Algo\\Graphs\\surroundedRegions.cpp","group":"local","local":true}
