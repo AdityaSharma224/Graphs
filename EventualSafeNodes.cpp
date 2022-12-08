@@ -71,3 +71,5 @@ int main()
     }
     cout<<endl;
 }
+
+//Space Complexity-> O(3N)
