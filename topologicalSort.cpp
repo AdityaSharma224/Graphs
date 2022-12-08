@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-
 //TC-> O(N+E)
 //SC-> O(N)+O(N)
 void dfs(int node, stack<int> &st, vector<int> adj[], vector<int> &vis)
@@ -43,7 +42,6 @@ int main()
 {
     int n,m;
     cin>>n>>m;
-
     vector<int>adj[n];
     for(int i=0;i<n;i++)
     {
@@ -57,5 +55,4 @@ int main()
         cout<<ans[i]<<" ";
     }
     cout<<endl;
-
 }
